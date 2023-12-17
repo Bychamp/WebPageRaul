@@ -163,11 +163,115 @@ margin: 0;
    margin-right: 400px;
    display: flex;
 }
+.text_fortnite{
 
-
-
-
-
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 150px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.fortnite{
+    width: 350px; 
+    height: 450px;
+    margin-top: 75px;
+    margin-left: 550px;
+    margin-right: 350px;    
+}
+.text_gta6{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 75px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.gta6{
+    width: 550px; 
+    height: 350px;
+    margin-top: 75px;
+    margin-left: 450px;
+    margin-right: 350px; 
+}
+.text_fifa{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 75px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.fifa24{
+    width: 550px; 
+    height: 350px;
+    margin-top: 75px;
+    margin-left: 450px;
+    margin-right: 350px;
+}
+.link_I{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.link_M{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.link_R{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.link_G{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.link_D{
+    display: flex;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: pink;
+    margin-top: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.email{
+    width: 400px;
+    height: 300px;
+    margin-top: 50px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+.whatsapp{
+    margin-top: 50px;
+    margin-left: 500px;
+    color: pink;
+    font-size: 50px
+}
+.contact_form{
+    margin-top: 50px;
+    margin-left: 500px;
+    color: pink;
+}
 img {
     border-radius: 25px;
   }
